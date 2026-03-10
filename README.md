@@ -1,0 +1,63 @@
+# TOMORROW X TOGETHER – Over The Moon
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+너는 나의 미래
+내 시공의 질서
+Let me hold you
+Let me hold you closer
+널 안고 입 맞출 때
+내 겨울이 녹아내려
+You're the sunlight
+데려가 줘 더
+저 달을 넘어 더 멀리
+꿈을 건너 sanctuary
+찬란한 저 약속의 우주로
+나를 살게 했듯이
+너를 웃게 할 테니
+Promise that I'll always be
+anywhere you are
+For you
+For you
+이곳 영원의 대지
+영원의 대지
+For you
+For you
+지금 땅 위를 박차 baby
+땅 위를 박차 baby
+Over the moon
+Over the stars
+날아올라 when you're in my arms
+Over the moon
+Over the stars
+속삭여 줘 나의 이름을
+너 없인 여전히
+무서워 힘들어
+별들도 잠들 것만 같아
+I'm with you
+You with me
+함께 있을 때만
+미래는 현실이 될 거야
+오래된 미래를 만들자
+같은 집에 살면서
+추억만큼 나이를 먹는 거야
+나를 살게 했듯이
+너를 웃게 할 테니
+Promise that I'll always be
+anywhere you are
+For you
+For you
+이곳 영원의 대지
+영원의 대지
+For you
+For you
+지금 땅 위를 박차 baby
+땅 위를 박차 baby
+Over the moon
+Over the stars
+날아올라 when you're in my arms
+Over the moon
+Over the stars
+속삭여 줘 나의 이름을
+```
