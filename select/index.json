@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "Over The Moon",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-03-10T06:53:38.832489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "The Marías",
+      "has_synced": true,
+      "path": "select/01_Over_the_Moon_The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lover / / Over the Moon",
+      "artist": "Alice Phoebe Lou",
+      "has_synced": true,
+      "path": "select/02_Lover_____Over_the_Moon_Alice_Phoebe_Lou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/03_Over_the_Moon_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Over The Moon",
+      "artist": "Someone feat. Tessa Rose Jackson",
+      "has_synced": false,
+      "path": "select/04_Over_The_Moon_Someone_feat._Tessa_Rose_Jackson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Over The Moon",
+      "artist": "Someone",
+      "has_synced": false,
+      "path": "select/05_Over_The_Moon_Someone.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "COLOUR",
+      "has_synced": true,
+      "path": "select/06_Over_the_Moon_COLOUR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "Pilot",
+      "has_synced": true,
+      "path": "select/07_Over_the_Moon_Pilot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "Cher Lloyd",
+      "has_synced": true,
+      "path": "select/08_Over_the_Moon_Cher_Lloyd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "Rent Original Broadway Cast",
+      "has_synced": true,
+      "path": "select/09_Over_the_Moon_Rent_Original_Broadway_Cast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Over The Moon",
+      "artist": "Original Broadway Cast",
+      "has_synced": true,
+      "path": "select/10_Over_The_Moon_Original_Broadway_Cast.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Over The Moon",
+      "artist": "TILAR",
+      "has_synced": true,
+      "path": "select/11_Over_The_Moon_TILAR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "Penelope Scott",
+      "has_synced": true,
+      "path": "select/12_Over_the_Moon_Penelope_Scott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rocket to the Moon (From the Netflix Film \"Over the Moon\")",
+      "artist": "Cathy Ang",
+      "has_synced": true,
+      "path": "select/13_Rocket_to_the_Moon_(From_the_Netflix_Film__Over_the_Moon_)_Cathy_Ang.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ultraluminary (From the Netflix Film \"Over the Moon\")",
+      "artist": "Phillipa Soo",
+      "has_synced": true,
+      "path": "select/14_Ultraluminary_(From_the_Netflix_Film__Over_the_Moon_)_Phillipa_Soo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "Rent",
+      "has_synced": true,
+      "path": "select/15_Over_the_Moon_Rent.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Over The Moon",
+      "artist": "Eddie Benjamin",
+      "has_synced": true,
+      "path": "select/16_Over_The_Moon_Eddie_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Over the Moon",
+      "artist": "The Innocence Mission",
+      "has_synced": false,
+      "path": "select/17_Over_the_Moon_The_Innocence_Mission.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Somewhere Over the Rainbow / What a Wonderful World",
+      "artist": "Robin Schulz feat. Alle Farben & Israel Kamakawiwo'ole",
+      "has_synced": true,
+      "path": "select/18_Somewhere_Over_the_Rainbow___What_a_Wonderful_World_Robin_Schulz_feat._Alle_Farben_&_Israel_Kamakawiwo'ole.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All Over the Road",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/19_All_Over_the_Road_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "All Over The Road (Album Version)",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/20_All_Over_The_Road_(Album_Version)_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Over the Rainbow",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/21_Over_the_Rainbow_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Over the Rainbow",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/22_Over_the_Rainbow_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Over The Rainbow",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/23_Over_The_Rainbow_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Over The Rainbow - Live",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/24_Over_The_Rainbow_-_Live_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Over The Rainbow",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/25_Over_The_Rainbow_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Pimpin' All Over the World",
+      "artist": "Ludacris & Bobby Valentino",
+      "has_synced": true,
+      "path": "select/26_Pimpin'_All_Over_the_World_Ludacris_&_Bobby_Valentino.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Pimpin' All Over the World (feat. Bobby Valentino)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/27_Pimpin'_All_Over_the_World_(feat._Bobby_Valentino)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Chemtrails Over The Country Club",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/28_Chemtrails_Over_The_Country_Club_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "LA Who Am I To Love You - From The Audiobook “Violet Bent Backwards Over The Grass”",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/29_LA_Who_Am_I_To_Love_You_-_From_The_Audiobook_“Violet_Bent_Backwards_Over_The_Gra_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Greenfield Morning I Pushed an Empty Baby Carriage All Over the City",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/30_Greenfield_Morning_I_Pushed_an_Empty_Baby_Carriage_All_Over_the_City_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Over The Hills And Far Away",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/31_Over_The_Hills_And_Far_Away_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Over the Ocean",
+      "artist": "Low",
+      "has_synced": false,
+      "path": "select/32_Over_the_Ocean_Low.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Now I'm All Over The Shop",
+      "artist": "Maxïmo Park",
+      "has_synced": true,
+      "path": "select/33_Now_I'm_All_Over_The_Shop_Maxïmo_Park.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Admiral over the Oceans",
+      "artist": "Civil War",
+      "has_synced": false,
+      "path": "select/34_Admiral_over_the_Oceans_Civil_War.txt"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "All Over the Nations",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/35_All_Over_the_Nations_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "In The Aeroplane Over The Sea",
+      "artist": "Neutral Milk Hotel",
+      "has_synced": true,
+      "path": "select/36_In_The_Aeroplane_Over_The_Sea_Neutral_Milk_Hotel.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Interlude/Over The Rainbow And On To The Sun",
+      "artist": "Tevin Campbell",
+      "has_synced": false,
+      "path": "select/37_Interlude_Over_The_Rainbow_And_On_To_The_Sun_Tevin_Campbell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Over The Moon",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Over_The_Moon_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
